@@ -1,7 +1,7 @@
 ##  
 <h1 align="center">Hi 👋， Welcome to my github</h1>
 
-一起学习:calendar::star2:
+一起学习✨
 
 Read more about my CSDN: [here](https://blog.csdn.net/weixin_46654114?type=blog)
 
